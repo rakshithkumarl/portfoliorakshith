@@ -7,8 +7,8 @@ I am a Software Engineer with more than 5 years of experience in the industry. M
 - <b>Data Structures and Algorithms(Leetcode)</b>
   - [Solving DSA problems in Python](https://leetcode.com/rakshithkl/)
 - <b>Python</b>
-  - [Image translation application (Python, Flask,Tesseract, Open-CV)](https://github.com/rakshithkumarl/flask_service)
-  - [Blogging Website (Python, Django,Html, CSS)](https://github.com/rakshithkumarl/bloggingsite)<b>
+  - [Image translation application (Python, Flask, Tesseract, Open-CV)](https://github.com/rakshithkumarl/flask_service)
+  - [Blogging Website (Python, Django, Html, CSS)](https://github.com/rakshithkumarl/bloggingsite)<b>
 <!--
 - <b>Java</b>
 - <b>Javascript</b>
