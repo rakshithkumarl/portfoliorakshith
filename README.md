@@ -1,14 +1,17 @@
 <h1>Hi There! I'm Rakshith</h1>
-A Software Engineer with more than 5 years of experience in the industry. My expertise spans the entire software development lifecycle from design, development, testing, and deployment of software applications. </br>I am confortable programming in languages such as Python, JavaScript, and Java. I specialize in back-end web development, where I excel in building microservices and libraries that power modern web applications. I am experienced in SQL databases like OracleDB, My-SQL and MS-SQL Server, etc as well as NoSQL databases including MongoDB and Couchbase. I have industrial hands-on experience with popular web development frameworks like Django, Flask, NodeJS and gRPC. </br>I have a strong foundation in data preprocessing, transformation and leveraging machine learning algorithms to build AI solutions. </br>I am enthusiastic to build applications that has real-world impact. My passion for innovation and problem-solving drives me, and I'm eager to contribute my expertise to innovative software engineering projects.
 
+- <b>A Software Engineer with more than 5 years of experience in the industry. My expertise spans the entire software development lifecycle from design, development, testing, and deployment of software applications.</b> 
+- <b>I am confortable programming in languages such as Python, JavaScript, and Java. I specialize in back-end web development, where I excel in building microservices and libraries that power modern web applications. I am experienced in SQL databases like OracleDB, My-SQL and MS-SQL Server, etc as well as NoSQL databases including MongoDB and Couchbase. I have industrial hands-on experience with popular web development frameworks like Django, Flask, NodeJS and gRPC. </b>
+- <b>I have a strong foundation in data preprocessing, transformation and leveraging machine learning algorithms to build AI solutions. </br>I am enthusiastic to build applications that has real-world impact. My passion for innovation and problem-solving drives me, and I'm eager to contribute my expertise to innovative software engineering projects. </b>
 
 <h2>Software Development and DevOps Projects:</h2>
-- <b>Data Structures and Algorithms(Leetcode)</b>
-  - [Solving DSA problems in Python](https://leetcode.com/rakshithkl/)
+  
 - <b>Development</b>
-  - [Microservices based video-to-mp3 conversion application] (https://github.com/rakshithkumarl/microservices-based-video2mp3-converter)
+  - [Microservices based Video-to-Mp3 conversion application](https://github.com/rakshithkumarl/microservices-based-video2mp3-converter)
   - [Image translation application (Python, Flask, Tesseract, Open-CV)](https://github.com/rakshithkumarl/flask_service)
   - [Blogging Website (Python, Django, Html, CSS)](https://github.com/rakshithkumarl/bloggingsite)
+  - [Solving DSA problems on Leecode](https://leetcode.com/rakshithkl/)<b>
+    
 <!--
 - <b>Java</b>
 - <b>Javascript</b>
