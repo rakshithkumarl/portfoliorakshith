@@ -8,7 +8,7 @@ A Software Engineer with more than 5 years of experience in the industry. My exp
 - <b>Development</b>
   - [Microservices based video-to-mp3 conversion application] (https://github.com/rakshithkumarl/microservices-based-video2mp3-converter)
   - [Image translation application (Python, Flask, Tesseract, Open-CV)](https://github.com/rakshithkumarl/flask_service)
-  - [Blogging Website (Python, Django, Html, CSS)](https://github.com/rakshithkumarl/bloggingsite)<b>
+  - [Blogging Website (Python, Django, Html, CSS)](https://github.com/rakshithkumarl/bloggingsite)
 <!--
 - <b>Java</b>
 - <b>Javascript</b>
