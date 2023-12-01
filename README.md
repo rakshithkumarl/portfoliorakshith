@@ -2,7 +2,8 @@
 
 - <b>A Software Engineer with more than 5 years of experience in the industry. My expertise spans the entire software development lifecycle from design, development, testing, and deployment of software applications.</b> 
 - <b>I am confortable programming in languages such as Python, JavaScript, and Java. I specialize in back-end web development, where I excel in building microservices and libraries that power modern web applications. I am experienced in SQL databases like OracleDB, My-SQL and MS-SQL Server, etc as well as NoSQL databases including MongoDB and Couchbase. I have industrial hands-on experience with popular web development frameworks like Django, Flask, NodeJS and gRPC. </b>
-- <b>I have a strong foundation in data preprocessing, transformation and leveraging machine learning algorithms to build AI solutions. </br>I am enthusiastic to build applications that has real-world impact. My passion for innovation and problem-solving drives me, and I'm eager to contribute my expertise to innovative software engineering projects. </b>
+- <b>I have a strong foundation in data preprocessing, transformation and leveraging machine learning algorithms to build AI solutions.
+- <b>I am enthusiastic to build applications that has real-world impact. My passion for innovation and problem-solving drives me, and I'm eager to contribute my expertise to innovative software engineering projects. </b>
 
 <h2>Software Development and DevOps Projects:</h2>
   
