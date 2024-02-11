@@ -11,7 +11,7 @@
   - [Microservices based Video-to-Mp3 Conversion Application (Tech Stack: Python, MySQL, MongoDB, RabbitMQ, Docker, Kubernetes)](https://github.com/rakshithkumarl/microservices-based-video2mp3-converter)
   - [OCR and Text Translation Application (Tech Stack: Python, Flask, Tesseract, Open-CV)](https://github.com/rakshithkumarl/flask_service)
   - [Blogging Website (Tech Stack: Python, Django, Html, CSS)](https://github.com/rakshithkumarl/bloggingsite)
-  - [Solving DSA problems on Leecode](https://leetcode.com/rakshithkl/)<b>
+  - [DSA problems on Leecode](https://leetcode.com/rakshithkl/)<b>
     
 <!--
 - <b>Java</b>
