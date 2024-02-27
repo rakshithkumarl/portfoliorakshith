@@ -5,6 +5,12 @@
 - <b>I have a strong foundation in data preprocessing, transformation and leveraging machine learning algorithms to build AI solutions.
 - <b>I am enthusiastic to build applications that has real-world impact. My passion for innovation and problem-solving drives me, and I'm eager to contribute my expertise to innovative software engineering projects. </b>
 
+<h2>Technical Skills:</h2>
+
+- <b>Programming Languages: Python, JavaScript, Java, C. </b>
+- <b>Databases: SQL(MS-SQL Server, MySQL, OracleDB), NoSQL(MongoDB, Couchbase). </b>
+- <b>Tools and Technologies: Django, Flask, NodeJS, REST, gRPC, Microservices, Git, Bitbucket, GitHub, Aiohttp, Anaconda, Tableau, Postman, cURL, Jenkins, Ansible, Linux OS(RedHat, Ubuntu), Jira, Docker, Kubernetes, RabbitMQ, AWS.</b>
+
 <h2>Software Development Projects:</h2>
   
 <!-- <b>Development</b> -->
@@ -20,11 +26,10 @@
 -->
 <h2> Connect with me:</h2>
 
-[<img align="left" alt="Rakshith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Rakshith | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/rakshith__bharadwaj/
 [linkedin]: https://www.linkedin.com/in/rklr
+[email]: <mailto:rakshithkumar.lr@gmail.com>
+You can contact me on [LinkedIn][linkedin] or via [Email][email].
+
 
 <!--
 **rakshithkumarl/portfoliorakshith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
