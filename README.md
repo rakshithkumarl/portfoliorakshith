@@ -29,8 +29,9 @@
 <h2>Software Development Projects:</h2>
   
 <!-- <b>Development</b> -->
-  - [Microservices based Video-to-Mp3 Conversion Application (Tech: Python, MySQL, MongoDB, RabbitMQ, Docker, Kubernetes)](https://github.com/rakshithkumarl/microservices-based-video2mp3-converter)
   - [Stock Management Application(Tech: Python, Django Rest Framework, SQLite3)](https://github.com/rakshithkumarl/stocks-application-using-django-rest)
+  - [Microservices based Video-to-Mp3 Conversion Application (Tech: Python, MySQL, MongoDB, RabbitMQ, Docker, Kubernetes)](https://github.com/rakshithkumarl/microservices-based-video2mp3-converter)
+  - [Sentiment Analysis of Restaurant Reviews(Tech: Python, Pandas, Neural Nets(LSTM), Keras)](https://github.com/rakshithkumarl/sentiment-analysis-of-restaurant-reviews)
   - [OCR and Text Translation Application (Tech: Python, Flask, Tesseract, Open-CV)](https://github.com/rakshithkumarl/flask_service)
   - [Blogging Website (Tech: Python, Django, Html, CSS)](https://github.com/rakshithkumarl/bloggingsite)
   - [DSA problems on Leecode(Tech: Python)](https://leetcode.com/rakshithkl/)<b>
